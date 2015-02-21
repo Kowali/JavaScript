@@ -10,12 +10,13 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.2.*"
+        "illuminate/support": "~5.0",
+        "kowali/support": "~2.0"
     },
     "autoload": {
         "psr-4": {
-            "Kowali\\JavaScript\\" : "src/Kowali/JavaScript/"
+            "Kowali\\JavaScript\\" : ""
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
