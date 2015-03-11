@@ -18,6 +18,7 @@ class JavaScriptServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
+        //
 	}
 
 	/**
